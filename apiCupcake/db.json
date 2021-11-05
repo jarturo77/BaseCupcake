@@ -1,88 +1,88 @@
 {
-  "cupcakes": [
+  "cupcakes":[
     {
-      "id": 1,
-      "sabor": "Vainilla",
-      "color": "amarillo",
-      "descripcion": "Cupcake sabor de vainilla clásica",
-      "precio": 10,
-      "image": "https://images.pexels.com/photos/4109784/pexels-photo-4109784.jpeg",
-      "estado": "false"
+      "id":1,
+      "sabor":"Vainilla",
+      "color":"amarillo",
+      "descripcion":"Cupcake sabor de vainilla clásica",
+      "precio":10,
+      "image":"https://images.pexels.com/photos/4109784/pexels-photo-4109784.jpeg",
+      "estado":"false"
     },
     {
       "id": 2,
-      "sabor": "Chocolate",
-      "color": "Marrón",
-      "descripcion": "Cupcake sabor de chocolate clásico",
-      "precio": 15,
-      "image": "https://images.pexels.com/photos/635409/pexels-photo-635409.jpeg",
-      "estado": "false"
+      "sabor":"Chocolate",
+      "color":"Marrón",
+      "descripcion":"Cupcake sabor de chocolate clásico",
+      "precio":15,
+      "image":"https://images.pexels.com/photos/635409/pexels-photo-635409.jpeg",
+      "estado":"false"
     },
     {
       "id": 3,
-      "sabor": "Vainilla",
-      "color": "amarillo",
-      "descripcion": "Cupcake sabor de vainilla clásica",
-      "precio": 10,
-      "image": "https://images.pexels.com/photos/4109784/pexels-photo-4109784.jpeg",
-      "estado": "false"
+      "sabor":"Vainilla",
+      "color":"amarillo",
+      "descripcion":"Cupcake sabor de vainilla clásica",
+      "precio":10,
+      "image":"https://images.pexels.com/photos/4109784/pexels-photo-4109784.jpeg",
+      "estado":"false"
     },
     {
-      "id": 4,
-      "sabor": "Chocolate",
-      "color": "Marrón",
-      "descripcion": "Cupcake sabor de chocolate clásico",
-      "precio": 15,
-      "image": "https://images.pexels.com/photos/635409/pexels-photo-635409.jpeg",
-      "estado": "false"
+      "id":4,
+      "sabor":"Chocolate",
+      "color":"Marrón",
+      "descripcion":"Cupcake sabor de chocolate clásico",
+      "precio":15,
+      "image":"https://images.pexels.com/photos/635409/pexels-photo-635409.jpeg",
+      "estado":"false"
     },
     {
-      "id": 5,
-      "sabor": "Fresa",
-      "color": "rojo",
-      "descripcion": "Cupcake sabor de fresa clásica",
-      "precio": 12,
-      "image": "https://images.pexels.com/photos/1179002/pexels-photo-1179002.jpeg",
-      "estado": "false"
+      "id":5,
+      "sabor":"Fresa",
+      "color":"rojo",
+      "descripcion":"Cupcake sabor de fresa clásica",
+      "precio":12,
+      "image":"https://images.pexels.com/photos/1179002/pexels-photo-1179002.jpeg",
+      "estado":"false"
     },
     {
-      "id": 6,
-      "sabor": "Arandano",
-      "color": "azul",
-      "descripcion": "Cupcake sabor de arandano azul",
-      "precio": 14,
-      "image": "https://images.pexels.com/photos/8882/love-heart-purple-dessert.jpg",
-      "estado": "false"
+      "id":6,
+      "sabor":"Arandano",
+      "color":"azul",
+      "descripcion":"Cupcake sabor de arandano azul",
+      "precio":14,
+      "image":"https://images.pexels.com/photos/8882/love-heart-purple-dessert.jpg",
+      "estado":"false"
     },
     {
-      "id": 7,
-      "sabor": "Fresa",
-      "color": "rojo",
-      "descripcion": "Cupcake sabor de fresa clásica",
-      "precio": 12,
-      "image": "https://images.pexels.com/photos/1179002/pexels-photo-1179002.jpeg",
-      "estado": "false"
+      "id":7,
+      "sabor":"Fresa",
+      "color":"rojo",
+      "descripcion":"Cupcake sabor de fresa clásica",
+      "precio":12,
+      "image":"https://images.pexels.com/photos/1179002/pexels-photo-1179002.jpeg",
+      "estado":"false"
     },
     {
       "id": 8,
-      "sabor": "Arandano",
-      "color": "azul",
-      "descripcion": "Cupcake sabor de arandano azul",
-      "precio": 14,
-      "image": "https://images.pexels.com/photos/8882/love-heart-purple-dessert.jpg",
-      "estado": "false"
+      "sabor":"Arandano",
+      "color":"azul",
+      "descripcion":"Cupcake sabor de arandano azul",
+      "precio":14,
+      "image":"https://images.pexels.com/photos/8882/love-heart-purple-dessert.jpg",
+      "estado":"false"
     }
   ],
-  "servicios": [
+  "servicios":[
     {
-      "id": 1,
-      "nombre": "Curso de Repostería",
-      "descripcion": "Curso para aprender a hacer cupckakes"
+      "id":1,
+      "nombre":"Curso de Repostería",
+      "descripcion":"Curso para aprender a hacer cupckakes"
     },
     {
-      "id": 2,
-      "nombre": "Delevery",
-      "descripcion": "Hacemos envíos de cupcakes a culaquier lugar de la ciudad"
+      "id":2,
+      "nombre":"Delevery",
+      "descripcion":"Hacemos envíos de cupcakes a culaquier lugar de la ciudad"
     }
   ]
 }
