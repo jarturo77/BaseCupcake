@@ -1,4 +1,4 @@
-{
+﻿{
   "cupcakes":[
     {
       "id":1,
@@ -10,7 +10,7 @@
       "estado":"false"
     },
     {
-      "id": 2,
+      "id":2,
       "sabor":"Chocolate",
       "color":"Marrón",
       "descripcion":"Cupcake sabor de chocolate clásico",
@@ -19,7 +19,7 @@
       "estado":"false"
     },
     {
-      "id": 3,
+      "id":3,
       "sabor":"Vainilla",
       "color":"amarillo",
       "descripcion":"Cupcake sabor de vainilla clásica",
@@ -64,7 +64,7 @@
       "estado":"false"
     },
     {
-      "id": 8,
+      "id":8,
       "sabor":"Arandano",
       "color":"azul",
       "descripcion":"Cupcake sabor de arandano azul",
