@@ -6,7 +6,7 @@
       "color":"amarillo",
       "descripcion":"Cupcake sabor de vainilla clásica",
       "precio":10,
-      "image":"https://images.pexels.com/photos/4109784/pexels-photo-4109784.jpeg",
+      "image":"https://images.pexels.com/photos/134575/pexels-photo-134575.jpeg",
       "estado":"false"
     },
     {
@@ -24,7 +24,7 @@
       "color":"amarillo",
       "descripcion":"Cupcake sabor de vainilla clásica",
       "precio":10,
-      "image":"https://images.pexels.com/photos/4109784/pexels-photo-4109784.jpeg",
+      "image":"https://images.pexels.com/photos/134575/pexels-photo-134575.jpeg",
       "estado":"false"
     },
     {
@@ -51,7 +51,7 @@
       "color":"azul",
       "descripcion":"Cupcake sabor de arandano azul",
       "precio":14,
-      "image":"https://images.pexels.com/photos/8882/love-heart-purple-dessert.jpg",
+      "image":"https://images.pexels.com/photos/1028708/pexels-photo-1028708.jpeg",
       "estado":"false"
     },
     {
@@ -69,7 +69,7 @@
       "color":"azul",
       "descripcion":"Cupcake sabor de arandano azul",
       "precio":14,
-      "image":"https://images.pexels.com/photos/8882/love-heart-purple-dessert.jpg",
+      "image":"https://images.pexels.com/photos/1028708/pexels-photo-1028708.jpeg",
       "estado":"false"
     }
   ],
